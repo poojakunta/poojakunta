@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I am Pooja Kunta pursuing Master's in Northwest Missouri State University. I have 3 years of work experience in capgemini. My hobbies are reading books and watching movies and i love palying carroms.
 
 <!--
 **poojakunta/poojakunta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
